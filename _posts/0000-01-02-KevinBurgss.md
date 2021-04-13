@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, my name is Kevin.
+Hello, my name is Liz.
 Use the left arrow to go back!
